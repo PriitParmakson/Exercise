@@ -9,6 +9,7 @@ var punktid = [
   { "nimi": "Laane + Särje tn", "loc": [59.380031, 24.642596] },
   { "nimi": "Glehni pargis (Hiiu-Astangu kergliiklustee kõrval, Särje tn lõpus)", "loc": [59.38443, 24.643669] },
   { "nimi": "Tähetorni tn (parkla kõrval)", "loc": [59.386509, 24.628704] },
+  { "nimi": "Hiiu staadioni kõrval", "loc": [59.384838, 24.658157]}
   { "nimi": "Harku ring 6 km (Tähetorni tn parklast edasi)", "loc": [59.386112, 24.624608] },
   { "nimi": "Harku mets 11 km (Kalda tn sisenev tee)", "loc": [59.375593, 24.615295] },
   { "nimi": "Harku mets 10, 5 km (Pilliroo tn sisenev tee)", "loc": [59.373533, 24.608851] },
