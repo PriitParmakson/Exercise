@@ -20,7 +20,9 @@ var punktid = [
   { "nimi": "Sütiste metsa linnak", "loc": [59.393395, 24.68828] },
   { "nimi": "Mustamäe spordikeskuse linnak", "loc": [59.388614, 24.651503] },
   { "nimi": "Harku ring 7 km (tagumisest Tähetorni parklast sisenev tee)", "loc": [59.385213, 24.612454] },
-  { "nimi": "Pääsküla noortekeskus", "loc": [59.369105, 24.642019] }
+  { "nimi": "Pääsküla noortekeskus", "loc": [59.369105, 24.642019] },
+  { "nimi": "Järve mets", "loc": [59.400641, 24.729810] },
+  { "nimi": "Parditiigi park", "loc": [59.405283, 24.705238] },
 ];
 
 // Koosta punktide mäpp.
